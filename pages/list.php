@@ -19,5 +19,9 @@
         return $a - $b;
     }
 
+    function potenciacao($a, $b) {
+        return pow($a, $b)
+    }
+
 
 ?>
