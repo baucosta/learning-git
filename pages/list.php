@@ -13,7 +13,10 @@
 
     function multipliacao($a, $b) {
         return $a * $b;
-        asdf
+    }
+
+    function subtracao($a, $b) {
+        return $a - $b;
     }
 
 
